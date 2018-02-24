@@ -2,5 +2,6 @@
 
 def say_howdy():
     print("Howdy!")
+    print("I said...HOWDY!")
 
 say_howdy()
